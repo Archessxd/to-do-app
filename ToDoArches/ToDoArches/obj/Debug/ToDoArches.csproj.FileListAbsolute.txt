@@ -1,0 +1,10 @@
+E:\!arches\Yazılım\c#\22 - todoapp\ToDoArches\ToDoArches\bin\Debug\ToDoArches.exe.config
+E:\!arches\Yazılım\c#\22 - todoapp\ToDoArches\ToDoArches\bin\Debug\ToDoArches.exe
+E:\!arches\Yazılım\c#\22 - todoapp\ToDoArches\ToDoArches\bin\Debug\ToDoArches.pdb
+E:\!arches\Yazılım\c#\22 - todoapp\ToDoArches\ToDoArches\obj\Debug\ToDoArches.csproj.AssemblyReference.cache
+E:\!arches\Yazılım\c#\22 - todoapp\ToDoArches\ToDoArches\obj\Debug\ToDoArches.Form1.resources
+E:\!arches\Yazılım\c#\22 - todoapp\ToDoArches\ToDoArches\obj\Debug\ToDoArches.Properties.Resources.resources
+E:\!arches\Yazılım\c#\22 - todoapp\ToDoArches\ToDoArches\obj\Debug\ToDoArches.csproj.GenerateResource.cache
+E:\!arches\Yazılım\c#\22 - todoapp\ToDoArches\ToDoArches\obj\Debug\ToDoArches.csproj.CoreCompileInputs.cache
+E:\!arches\Yazılım\c#\22 - todoapp\ToDoArches\ToDoArches\obj\Debug\ToDoArches.exe
+E:\!arches\Yazılım\c#\22 - todoapp\ToDoArches\ToDoArches\obj\Debug\ToDoArches.pdb
